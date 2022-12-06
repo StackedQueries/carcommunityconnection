@@ -1,35 +1,26 @@
 {
-    "title": "Tyler Richards' Links",
-    "name": "Tyler Richards",
-    "job": "Full Stack Engineer",
-    "location": "Atlanta, GA",
-    "bio": "Hi! I write code for work and sometimes for fun. In my free time I like reading, drinking coffee, and playing video games",
+    "title": "Car Community Connection",
     "links": [
         {
-            "emoji": "👨‍💻",
-            "link": "https://github.com/StackedQueries",
-            "text": "Github"
+            "emoji": "./img/facebook.ico",
+            "link": "https://www.facebook.com/groups/603565554642257/",
+            "text": "Facebook"
         },
         {
-            "emoji": "📰",
-            "link": "https://www.fs.engineer/",
-            "text": "Blog"
+            "emoji": "./img/instagram.ico",
+            "link": "https://www.instagram.com/carcommunityconnection/",
+            "text": "Instagram"
         },
         {
-            "emoji": "📢",
-            "link": "https://www.linkedin.com/in/stackedqueries/",
-            "text": "LinkedIn"
-        },
-        {
-            "emoji": "🐥",
-            "link": "https://twitter.com/StackedQueries",
-            "text": "Twitter"
+            "emoji": "./img/laptop.ico",
+            "link": "https://www.carcommunityconnection.com/",
+            "text": "Website"
         },
 
         {
-            "emoji": "✉",
-            "link": "mailto:tyler@tyler-richards.com",
-            "text": "Email Me!"
+            "emoji": "./img/mail.ico",
+            "link": "mailto:info@carcommunityconnection.com",
+            "text": "Email Us!"
         }
     ]
 }

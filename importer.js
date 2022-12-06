@@ -18,7 +18,7 @@ async function importer(){
             linkElement.insertAdjacentHTML('beforeend',
             `
             <li class="m-4 text-center" id="links">
-            ${link.emoji} <a href="${link.link}" class="text-gray-600 underline" target="_blank">${link.text}</a>
+            <img class="w-4 inline" src=${link.emoji}/> <a href="${link.link}" class="text-gray-600 underline" target="_blank">${link.text}</a>
             </li>`
             )
         }
